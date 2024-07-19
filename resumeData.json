@@ -1,0 +1,34 @@
+{
+    "name": "John Doe",
+    "title": "Software Engineer",
+    "summary": "Experienced software engineer with expertise in frontend, backent and cloud development.",
+    "experience": [
+      {
+        "company": "Creative Brands Group",
+        "position": "FullStack Software Engineer",
+        "duration": "2018 - Present",
+        "responsibilities": "Led a team of developers in developing solutions for FinTech companies",
+        "achievements": "Implemented a scalable microservices architecture that increased user engagement by 20%"
+      },
+      {
+        "company": "PigiBank",
+        "position": "Software Developer",
+        "duration": "2015 - 2018",
+        "responsibilities": "Developed front-end and back-end systems...",
+        "achievements": "Launched a product that gained 100k users in 2years."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Jomo Kenyatta University of Agriculture and Technology",
+        "degree": "Bachelor in Business Information Technology",
+        "duration": "2011 - 2015"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "Python",
+      "AWS Services",
+      "RESTful APIs"
+    ]
+  }
